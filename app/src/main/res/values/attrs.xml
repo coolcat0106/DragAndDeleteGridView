@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DragGridView">
+        <!--拖拽时候放大缩小倍数-->
+        <attr name="drag_scale" format="float"/>
+        <!-- 缩放动画时间-->
+        <attr name="scale_mill" format="integer"/>
+        <!-- 可以开始拖动的 position-->
+        <attr name="drag_start_position" format="integer"/>
+        <!-- 最后一位是否可以拖动-->
+        <attr name="drag_last_position" format="boolean"/>
+        <!--是否振动-->
+        <attr name="vibrator" format="boolean"/>
+    </declare-styleable>
+</resources>
