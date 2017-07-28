@@ -55,7 +55,9 @@ public class DragGridView extends GridView {
     private int mDownY;
     private int moveX;
     private int moveY;
-	private int lsrr;
+
+
+
     /**
      * 正在拖拽的position
      */
