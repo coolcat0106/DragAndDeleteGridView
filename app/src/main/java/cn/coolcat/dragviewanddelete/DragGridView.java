@@ -31,6 +31,7 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.ListAdapter;
 
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -54,6 +55,7 @@ public class DragGridView extends GridView {
     private int mDownY;
     private int moveX;
     private int moveY;
+	private int ls;
     /**
      * 正在拖拽的position
      */
