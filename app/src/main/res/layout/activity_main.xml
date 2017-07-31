@@ -6,7 +6,7 @@
               android:orientation="vertical"
               tools:context=".MainActivity">
 
-    <cn.coolcat.dragviewanddelete.DragGridView
+    <com.coolcat.dragviewanddelete.DragGridView
         android:id="@+id/dragGridView"
         android:layout_width="match_parent"
         android:layout_height="300dp"
