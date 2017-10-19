@@ -1,0 +1,2 @@
+# DragAndDeleteGridView
+gridview的item拖动变换位置，拖动到屏幕底部删除
